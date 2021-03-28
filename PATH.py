@@ -1,0 +1,1 @@
+OPEN_POSE_BIN = 'OpenPoseDemo.exe'
